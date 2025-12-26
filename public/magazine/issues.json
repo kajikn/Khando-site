@@ -1,0 +1,9 @@
+[
+  { "issue": 1, "title": "Համար 1", "pdf": "/magazine/issue-1.pdf", "cover": "/magazine/covers/issue-1.jpg" },
+  { "issue": 2, "title": "Համար 2", "pdf": "/magazine/issue-2.pdf", "cover": "/magazine/covers/issue-2.jpg" },
+  { "issue": 3, "title": "Համար 3", "pdf": "/magazine/issue-3.pdf", "cover": "/magazine/covers/issue-3.jpg" },
+  { "issue": 4, "title": "Համար 4", "pdf": "/magazine/issue-4.pdf", "cover": "/magazine/covers/issue-4.jpg" },
+  { "issue": 5, "title": "Համար 5", "pdf": "/magazine/issue-5.pdf", "cover": "/magazine/covers/issue-5.jpg" },
+  { "issue": 6, "title": "Համար 6", "pdf": "/magazine/issue-6.pdf", "cover": "/magazine/covers/issue-6.jpg" }
+
+]

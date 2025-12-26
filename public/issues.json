@@ -1,0 +1,37 @@
+[
+  {
+    "issue": 1,
+    "pdf": "/magazine/issue-1.pdf",
+    "cover": "/magazine/covers/issue-1.jpg",
+    "thumb": "/magazine/thumbs/issue-1.jpg",
+    "title": "Խաչկավանք-Խանդո հանդես — ՀԱՄԱՐ 1"
+  },
+  {
+    "issue": 2,
+    "pdf": "/magazine/issue-2.pdf",
+    "cover": "/magazine/covers/issue-2.jpg",
+    "thumb": "/magazine/thumbs/issue-2.jpg",
+    "title": "Խաչկավանք-Խանդո հանդես — ՀԱՄԱՐ 2"
+  },
+  {
+    "issue": 3,
+    "pdf": "/magazine/issue-3.pdf",
+    "cover": "/magazine/covers/issue-3.jpg",
+    "thumb": "/magazine/thumbs/issue-3.jpg",
+    "title": "Խաչկավանք-Խանդո հանդես — ՀԱՄԱՐ 3"
+  },
+  {
+    "issue": 4,
+    "pdf": "/magazine/issue-4.pdf",
+    "cover": "/magazine/covers/issue-4.jpg",
+    "thumb": "/magazine/thumbs/issue-4.jpg",
+    "title": "Խաչկավանք-Խանդո հանդես — ՀԱՄԱՐ 4"
+  },
+  {
+    "issue": 5,
+    "pdf": "/magazine/issue-5.pdf",
+    "cover": "/magazine/covers/issue-5.jpg",
+    "thumb": "/magazine/thumbs/issue-5.jpg",
+    "title": "Խաչկավանք-Խանդո հանդես — ՀԱՄԱՐ 5"
+  }
+]
