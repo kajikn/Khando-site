@@ -1,13 +1,26 @@
+
+// data/site.ts
+
+export type NavChild = {
+  label: string
+  href: string   // ✅ պարտադիր
+}
+
 export type NavItem = {
   label: string
   href?: string
-  children?: NavItem[]
+  children?: NavChild[]
 }
+
+
 
 export const site = {
   name: "Khando",
   tagline: "մեր գյուղը, մեր արմատները",
-}
+  heroTitle:"...",
+  heroAltTitle:"...",
+} 
+
 
 export const nav: NavItem[] = [
   { label: "Գլխավոր", href: "/" },
