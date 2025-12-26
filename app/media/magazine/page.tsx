@@ -49,7 +49,17 @@ export default async function MagazinePage() {
               color: "inherit",
             }}
           >
-            <img src={it.cover} alt={it.title} style={{ width: "100%" }} />
+              <img
+                                    
+                    alt={it.title}
+                    style={{
+                      width: "100%",
+                      height: 320,
+                      objectFit: "cover",
+                      display: "block",
+                    }}
+                  />
+/>
             <div style={{ padding: 10, fontWeight: 600 }}>
               {it.title}
             </div>
